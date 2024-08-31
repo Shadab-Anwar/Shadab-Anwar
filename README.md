@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://rishavchanda.io)
+[![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Shadab Anwar</h1>
 <h3 align="center">I'm Shadab Anwar, your dedicated web developer! From NIT Rourkela .</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/3898109/file/original-1e15ac48305378a87fc4997b2ad4c0ee.gif">
