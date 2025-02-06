@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/shadab anwar" target="blank"><img src="https://img.shields.io/twitter/follow/shadab anwar?logo=twitter&style=for-the-badge" alt="shadab anwar" /></a> </p>
 
-- 🔭 I’m currently working on [Moodify](https://hacka-thon.vercel.app/)
+- 🔭 I’m currently working on [IRIS](https://hacka-thon.vercel.app/)
 
 - 🌱 I’m currently learning **Backend Technologies**
 
