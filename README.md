@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Live Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Shadab-Anwar](https://github.com/Shadab-Anwar)
+- 👨‍💻 All of my projects are available at my [Portfolio](https://shadab-anwar.github.io/Portfolio2.0/)
 
 - 💬 Ask me about **core Javascript concepts**
 
